@@ -1,0 +1,7 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Content-Security-Policy: default-src 'self'
+  Link: </codejot.css>; rel=preload; as=style
+  Link: </codejot.js>; rel=preload; as=script
+
