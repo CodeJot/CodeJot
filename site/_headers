@@ -4,4 +4,3 @@
   Content-Security-Policy: default-src 'self'
   Link: </codejot.css>; rel=preload; as=style
   Link: </codejot.js>; rel=preload; as=script
-
